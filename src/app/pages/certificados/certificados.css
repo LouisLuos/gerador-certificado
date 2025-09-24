@@ -69,3 +69,7 @@
   justify-content: center;
   display: flex;
 }
+
+.list-certicicate {
+  max-width: 672px;
+}
